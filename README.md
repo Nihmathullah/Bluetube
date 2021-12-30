@@ -7,7 +7,7 @@ steps
 
 Clone project $ git clone https://github.com/Nihmathullah/Bluetube.git
 
-Go to the folder $ cd bluetube
+Go to the folder $ cd Bluetube
 
 Install composer $ composer install
 
