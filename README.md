@@ -1,7 +1,9 @@
 # Bluetube
 A social Media Created on Laravel Platform
+
 steps 
-*use git bash to do deveop this project
+
+*use git bash to do develop this project
 
 Clone project git clone https://github.com/Nihmathullah/Bluetube.git
 
